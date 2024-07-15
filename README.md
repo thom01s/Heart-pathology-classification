@@ -9,8 +9,8 @@ The CNN model used is based on examples of timeseries classifications from keras
 
 To use the algorithm:
 - Download the repsitory available at: https://physionet.org/content/ptb-xl/1.0.3/;
-- Unzip the PTB-XL archive to the same folder:
-- Install the following dependencies/libraries if not installed:
+- Unzip the PTB-XL archive to the same folder the .py file is located:
+- Install the following dependencies/libraries if not installed on your framework:
 
 ```sh
 pandas
