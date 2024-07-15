@@ -31,11 +31,11 @@ imblearn
 
 ## Meta
 
-Thomas Sponchiado Pastore – [@ThomasSPastore](https://twitter.com/dbader_org) – thomas.spastore@gmail.com
+Thomas Sponchiado Pastore – [@ThomasSPastore](https://twitter.com/ThomasSPastore) – thomas.spastore@gmail.com
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
-[https://github.com/thom01s?tab=repositories](https://github.com/dbader/)
+[https://github.com/thom01s?tab=repositories](https://github.com//thom01s?tab=repositories])
 
 ## Contributing
 
