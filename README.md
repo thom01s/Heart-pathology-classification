@@ -24,6 +24,15 @@ seaborn
 imblearn
 ```
 
+## Results
+
+![Treino e teste do modelo](./modelo.jpeg)
+![Sumário do modelo](./sumario.jpeg)
+
+## Discussion
+
+The best model had 84% precision and recall across the 5 categories. Diferent solutions such as CNN 1D, Resnet-50, and ensemble models were tested. One categorie (Hypertrophy class 1) even with class balancing still seems to have not enough data for training, which meand that further investigation is needed. The model might need more data to train or a different architecture to work better.
+
 ## Release History
 
 * 0.0.1
