@@ -71,6 +71,18 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 
 [https://github.com/thom01s?tab=repositories](https://github.com//thom01s?tab=repositories])
 
+Please cite our paper:
+```sh
+@inproceedings{pastore2025cardiac,
+  title={Cardiac pathology classification with one-dimensional convolutional neural network},
+  author={Pastore, Thomas Sponchiado and de Oliveira Ramos, Gabriel and Schmith, Jean},
+  booktitle={Simp{\'o}sio Brasileiro de Computa{\c{c}}{\~a}o Aplicada {\`a} Sa{\'u}de (SBCAS)},
+  pages={248--259},
+  year={2025},
+  organization={SBC}
+}
+```
+
 ## Contributing
 
 1. Fork it (<https://github.com/thom01s/Heart-pathology-classification/fork>)
